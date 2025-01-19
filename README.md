@@ -76,7 +76,7 @@ a434bce6d2be        mysql:8.0.19                   "docker-entrypoint.s…"   8 
 
 After the application starts, navigate to `http://localhost:3000` in your web browser.
 
-![page](./output.png)
+![image](https://github.com/user-attachments/assets/23712f9a-3719-40c6-b2d6-51ab8cb4e749)
 
 
 The backend service container has the port 80 mapped to 80 on the host.
